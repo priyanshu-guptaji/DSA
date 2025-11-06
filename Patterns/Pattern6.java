@@ -1,4 +1,4 @@
-public class P6 {
+public class Pattern6 {
   public static void main(String[] args) {
     int num = 1;
 
@@ -11,3 +11,9 @@ public class P6 {
     }
   }
 }
+
+// Output:-
+// 1
+// 23
+// 456
+// 78910

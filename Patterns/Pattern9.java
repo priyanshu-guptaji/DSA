@@ -1,4 +1,4 @@
-public class P9{
+public class Pattern9{
 public static void main(String args[]){
 char ch = 'A';
 	for(int i = 1 ; i <= 5 ; i++){
@@ -7,4 +7,13 @@ char ch = 'A';
 			
 }
 System.out.println();
-ch++;}}}
+ch++;
+}
+}
+}
+// output:-
+// A
+// BB
+// CCC
+// DDDD
+// EEEEE
