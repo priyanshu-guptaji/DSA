@@ -15,7 +15,6 @@ public class greedChoco {
         for (int i = 0; i < n; i++) {
             greed[i] = sc.nextInt();
         }
-
         
         System.out.print("Enter number of chocolates: ");
         int m = sc.nextInt();
