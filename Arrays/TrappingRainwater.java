@@ -37,7 +37,7 @@ class TrappingRainwater {
     }
 
     public static void main(String[] args) {
-        int[] height = {3, 2, 5, 3, 1, 0, 3};
+        int[] height = {3, 2, 5, 3, 1, 3};
 
         TrappingRainwater obj = new TrappingRainwater();
 
